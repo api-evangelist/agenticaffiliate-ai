@@ -66,7 +66,7 @@
 
 Affiliate MCP is an open-source, local-first automation platform that connects every affiliate network to large language models such as Claude or Codex. Users can ask plain-English questions to retrieve affiliate performance data, generate reports, and approve actions. The service runs locally, ensuring data never leaves the user’s environment, and is free to use. It aims to streamline repetitive affiliate checks and empower marketers with AI-driven insights.
 
-**Areas:** Affiliate · Automation · AI · Open Source · Local-first
+**Areas:** Affiliates · Automation · Artificial Intelligence · Open Source · Local-First
 
 ## Affiliate MCP on APIs.io
 
@@ -84,8 +84,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenticaffiliate Ai Domain Security](https://apis.io/security/agenticaffiliate-ai/agenticaffiliate-ai-domain-security/)
-- [Agenticaffiliate Ai Trust Center](https://apis.io/security/agenticaffiliate-ai/agenticaffiliate-ai-trust-center/)
+- [Affiliate MCP Domain Security](https://apis.io/security/agenticaffiliate-ai/agenticaffiliate-ai-domain-security/)
+- [Affiliate MCP Trust Center](https://apis.io/security/agenticaffiliate-ai/agenticaffiliate-ai-trust-center/)
 
 ## Where to find this API
 
@@ -99,25 +99,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 16.5** — emerging · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 15.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 18.3 |
-| Access clarity | 26.3 |
+| Access clarity | 25.5 |
 
-**Agent readiness 6.3** — agent-aware
+**Agent readiness 3.2** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -136,8 +136,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 8.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agenticaffiliate-ai/](https://apis.io/providers/agenticaffiliate-ai/).
 
